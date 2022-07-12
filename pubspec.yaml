@@ -18,7 +18,7 @@ dependencies:
     #   url: https://github.com/thzero/flutter_compass
     #   ref: direction_issue
   flutter_map: ^1.1.1
-  geolocator: ^9.0.0
+  geolocator: ^9.0.1
   latlong2: ^0.8.1
 
 dev_dependencies:
